@@ -14,7 +14,6 @@ In this repo we have three docker files and the nginx configuration for our Ngin
 ![Emartpp Home](images/emartapp-deploy.png)
 ![Emartpp Web](images/emartapp.png)
 ![EC2 AWS](images/EC2-DockerEngine.png)
-![EC2 AWS](images/EC2-instance-properties.png)
 ![Docker](images/docker-commands.png)
 ![Docker](images/docker-compose-up.png)
 ![Docker](images/docker-compose-down.png)

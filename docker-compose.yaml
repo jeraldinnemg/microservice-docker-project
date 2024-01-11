@@ -40,6 +40,9 @@ services:
       - "./nginx/default.conf:/etc/nginx/conf.d/default.conf"
     ports:
       - "80:80"
+    depends on:
+      - client
+    
 
   emongo:
     image: mongo:4

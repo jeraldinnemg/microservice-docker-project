@@ -1,5 +1,3 @@
-# emart-app
-
 # Containerization of Java application using Docker and AWS 🐳+ 🟧
 
 ### About:
@@ -12,7 +10,7 @@ In this repo we have three docker files and the nginx configuration for our Ngin
 - 👩🏽‍💻 MicroService Stack (Emartapp: nginx, angular, NodeJs, Java. MongoDB, MySQL)
 - 👩🏽‍💻 AWS EC2
 
-## Deployment emarapp using docker and aws
+### Deployment emarapp using docker and aws
 ![Emartpp Home](images/emartapp-deploy.png)
 ![Emartpp Web](images/emartapp.png)
 ![EC2 AWS](images/EC2-DockerEngine.png)
@@ -20,3 +18,6 @@ In this repo we have three docker files and the nginx configuration for our Ngin
 ![Docker](images/docker-commands.png)
 ![Docker](images/docker-compose-up.png)
 ![Docker](images/docker-compose-down.png)
+
+###  Resources 
+- This is a practice from the course DevOps Projects | 20 Real-Time DevOps Projects 
